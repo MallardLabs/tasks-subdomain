@@ -8,7 +8,7 @@ export function Header() {
       <div className="container mx-auto px-4">
         <header className="flex items-center justify-between py-4">
           <div className="flex items-center space-x-6">
-            <Link href="/" className="block">
+            <Link href="https://mallardlabs.xyz/" className="block">
               <Image
                 src="/mlogo.webp?height=40&width=40"
                 alt="Logo"
@@ -21,7 +21,7 @@ export function Header() {
             <h1 className="text-xl font-semibold">Taskboards</h1>
           </div>
           <Link 
-            href="/"
+            href="https://mallardlabs.xyz/"
             className="flex items-center gap-2 text-sm font-medium hover:text-gray-300 transition-colors"
           >
             Return to homepage
