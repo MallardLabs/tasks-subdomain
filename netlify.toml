@@ -1,5 +1,4 @@
 [build]
-  command = "npm install --legacy-peer-deps && npm run build --legacy-peer-deps"
   publish = ".next"
 
 [[redirects]]
