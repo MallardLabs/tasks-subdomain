@@ -1,4 +1,4 @@
-import type { Metadata as NextMetadata } from "next";
+import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import { LoadingScreen } from "@/components/loading";
 import "./globals.css";
