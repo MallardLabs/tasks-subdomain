@@ -1,0 +1,7 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/matscraft"
+  to = "https://trello.com/b/e3XaYEti/matscraft"
+  status = 301
